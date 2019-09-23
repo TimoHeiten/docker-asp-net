@@ -1,0 +1,14 @@
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/bin/Debug/netcoreapp2.2/src.deps.json
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.json
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/bin/Debug/netcoreapp2.2/src.runtimeconfig.dev.json
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/bin/Debug/netcoreapp2.2/src.dll
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/bin/Debug/netcoreapp2.2/src.pdb
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.csprojAssemblyReference.cache
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.csproj.CoreCompileInputs.cache
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.RazorAssemblyInfo.cache
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.RazorAssemblyInfo.cs
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.AssemblyInfoInputs.cache
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.AssemblyInfo.cs
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.RazorTargetAssemblyInfo.cache
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.dll
+/Users/timoheiten/OneDrive/Company/Projects/Udemy_courses/dotnet/docker_asp/02_docker_containers/src/obj/Debug/netcoreapp2.2/src.pdb
